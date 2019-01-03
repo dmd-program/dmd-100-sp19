@@ -33,7 +33,7 @@ Kate Miffitt, Assistant Director of Strategic Initiatives, Penn State College of
 
 ## Contributing
 
-Anyone can recommend additions or alterations to this course. Please, submit a [pull request on github.com](https://github.com/dmd-program/dmd-100-fa18) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-100-fa18/issues).
+Anyone can recommend additions or alterations to this course. Please, submit a [pull request on github.com](https://github.com/dmd-program/dmd-100-sp19) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-100-sp19/issues).
 
 ## License
 
