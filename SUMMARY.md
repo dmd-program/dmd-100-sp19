@@ -113,7 +113,7 @@
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
-    * [Deliver: Open Design](projects/open_design/deliver_open_design.md)
+    * [Deliver: Project documentation](projects/open_design/deliver_open_design.md)
 * [Lesson 5: Self design](lessons/introduction-self-design.md)
   * Readings
     * [Chapter 15. The Design of Private Knowledge](reading-reflections/chapter_15_the_design_of_private_knowledge.md)

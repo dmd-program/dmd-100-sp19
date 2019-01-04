@@ -1,6 +1,6 @@
 ![Double Diamond Deliver Phase graphic](/assets/dd-process-deliver-1200px@2x.png)
 
-# Deliver: Open Design
+# Deliver: Project documentation
 
 You will now take photos of the toy assemblies and make any needed adjustments to the instructions document. 
 
