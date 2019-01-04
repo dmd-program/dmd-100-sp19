@@ -28,7 +28,7 @@ Now that you've finished conducting the interview, it's time to identify some th
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Check that you identified a variety of themes.
-2. Check that you wrote three (3) full core insights using the provided pattern in the instructions. A single insight includes three sentences, so you will have nine (9) total sentences.
+2. Check that you wrote three (3) full core insights using the provided pattern in the instructions. A single insight includes three sentences, so you will have nine (9) total sentences if you've followed the instructions precisely.
 2. Upload the photograph or scan of your themes and insights in `.jpg` or `.png` format.
 
 ***
