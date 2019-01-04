@@ -6,8 +6,9 @@ You will now write a fictional, yet _**plausible**_ story that describes how thi
 
 ## Requirements
 
-* **Content:** The result of the plot must be of a positive future.
+* **Positive content:** The result of the plot must be of a positive future.
 * **Plausible:** The story must be in the realm of technological and scientific plausibility.
+* **Conduct research:** Find articles or books that help support the plausible nature of story. For instance, if some new technology is being used, find credible sources that help support it's use in your story.
 
 ### Document guidelines
 
@@ -25,10 +26,12 @@ Produce a document with the following items:
 6. **Narrative tropes**
    * Search through this [list of narrative tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes) to identify ones you are interested in using. Choose three or more tropes and write a short description for each.
 7. **Settings and environment**
-   * Describe the sights, sounds, smells, etc. In what location are the characters?  
-8. **Character list**
+   * Describe the sights, sounds, smells, etc. In what location are the characters?
+8. **Bibliography**
+   * List any articles, books, websites, or other sources used in your topic research. Use a [citation generator](https://www.scribbr.com/apa-citation-generator/) to create citations in either APA or MLA format.
+9. **Character list**
    * List the people who would need to see this story in order for it to become a reality? Who are the decision makers that can make this happen? Who are the organizers, supporters, proponents, and opponents? These people are your characters. Read the [character topic](/topics/character.md) for more details.
-9. **Plot structure**
+10. **Plot structure**
    1. The way it was
    2. And then one day...
    3. Raising the stakes
