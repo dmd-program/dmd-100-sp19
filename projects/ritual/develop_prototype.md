@@ -65,10 +65,10 @@ Now that you have described the various aspects of the ritual, you will create i
 
 ## Instructions
 
-1. Create the interactive prototype using the prototyping instructions
-2. **Download a ZIP archive** of your prototype from InVision
-3. Copy the InVision project's  Public Share Link
-4. Write a prototype description according to the requirements
+1. Create interactive wireframes using the prototyping instructions.
+2. **Download a ZIP archive** of your prototype from InVision.
+3. Copy the InVision project's  Public Share Link.
+4. Write a prototype description according to the requirements.
 
 ## Post work to the Studio
 
