@@ -2,7 +2,7 @@
 
 # Develop: Storyboard
 
-Using the ideas generated during the brainstorm, you will now map out key aspects of the ritual in storyboard form. In this case, the storyboard is a sequence of drawings or images that communicate how the ritual will occur. This will give others the opportunity to provide feedback, and forces the designer to think about all of the key decisions in more detail.
+Refer to the ideas generated during the brainstorm. Did any strike you as interesting, silly, novel, or brilliant? Brainstorming sessions don't always lead to useful or good ideas, so it's important to be realistic about their utility in your design process. For this assignment, you will develop and map out key aspects of a creative ritual as a storyboard. The storyboard is a sequence of drawings or images that communicate what the ritual is and how it will occur. This will give others the opportunity to provide feedback, and forces the designer to think about all of the key decisions in more detail. This storyboard should be fairly abstract, and should not be for an app necessarily. 
 
 ## Materials
 
