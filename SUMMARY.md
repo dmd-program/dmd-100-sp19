@@ -55,9 +55,9 @@
     * [Develop: Brainstorm](projects/ritual/develop-brainstorm.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
     * [InvisionApp tutorials](projects/invisionapp-tutorial.md)
-    * [Develop: Prototype](projects/ritual/develop_prototype.md)
+    * [Develop: Interactive wireframes](projects/ritual/develop_prototype.md)
     * [Develop: Test and review](projects/ritual/develop_test_and_review.md)
-    * [Develop: Iterate prototype](projects/ritual/develop-iterate-prototype.md)
+    * [Develop: Iterate wireframes](projects/ritual/develop-iterate-prototype.md)
     * [Deliver: Final prototype](projects/ritual/deliver-final-prototype.md)
 * [Lesson 3: Storytelling](lessons/introduction-storytelling.md)
   * Topics

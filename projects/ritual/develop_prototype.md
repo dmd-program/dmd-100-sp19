@@ -1,6 +1,6 @@
 ![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
 
-# Develop: Prototype
+# Develop: Interactive Wireframes
 
 Now that you have described the various aspects of the ritual, you will prototype a mobile application interface using a process known as paper prototyping. Paper prototyping is a quick way to simulate a product before too many resources are used to design and engineer the final product. It works as a kind of model that others can react to, giving designers an insight as to whether they are going in the right direction. The purpose of this prototype is to quickly communicate to your peers how you intend to use a mobile device application to facilitate a ritual.
 
@@ -11,9 +11,8 @@ Now that you have described the various aspects of the ritual, you will prototyp
 3. Scissors
 4. Ruler
 5. Cellphone Camera
-6. [Invisionapp.com](http://www.invisionapp.com/education-signup) \(free education account\) Sign up for an education account with this code: **56-73-13-19**
-7. InVision mobile app \(free download\)
-8. Paper Prototyping PDF: [PDF Download](https://media.aanda.psu.edu/sites/media/aa/files/documents/ritual-project-appprototyping.pdf)
+6. Visit [https://www.invisionapp.com/education-signup](http://www.invisionapp.com/education-signup) to get a free education account. Use this activation code: **56-73-13-19**
+7. Paper Prototyping PDF: [PDF Download](https://media.aanda.psu.edu/sites/media/aa/files/documents/ritual-project-appprototyping.pdf)
 
 ## Technical resources
 
@@ -46,7 +45,7 @@ Now that you have described the various aspects of the ritual, you will prototyp
 ![InvisionApp project view](/assets/invision-proj-view.png)
 
 1. See example prototype: [https://invis.io/65BREK4PV](https://invis.io/65BREK4PV)
-3. If you have not done so already, view the [InvisionApp tutorials](/dmd100/node/1613).  
+2. If you have not done so already, view the [InvisionApp tutorials](/dmd100/node/1613).  
 3. Upload prototype interfaces to InvisionApp
    1. Move the image files from your phone or camera to your computer.
    2. Crop each image to the screen border using the cropping methods suggested in the technical resources.
@@ -66,7 +65,7 @@ Now that you have described the various aspects of the ritual, you will prototyp
 ## Instructions
 
 1. Create the interactive prototype using the prototyping instructions
-2. Download a ZIP archive of your prototype from InVision
+2. **Download a ZIP archive** of your prototype from InVision
 3. Copy the InVision project's  Public Share Link
 4. Write a prototype description according to the requirements
 
@@ -77,5 +76,6 @@ Use the file format indicated in each step. You must obtain prior approval to de
 1. Upload the `.zip` archive file to Studio 
 2. Submit the URL of the Public Share Link to the InvisionApp Live Prototype to the Studio
 3. Post a **prototype description** in the Studio submission text box.
+
 
 
