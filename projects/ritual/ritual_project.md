@@ -10,7 +10,7 @@ A ritual is an interesting design problem because it is produced for the purpose
 
 ### Designing a ritual
 
-This project asks you to go through a variety of design phases. The first discovery phase asks you to conduct and interview. From there, you will pull out themes, develop a "How might we" question, develop ideas as a group, create and test prototypes, and produce a final fully interactive proposal. Solutions to this project brief can be literal solutions for solving your interviewees problems, or they can be more experimental solutions, that instead highlight and creatively explore one of the themes identified in the interview.
+This project asks you to go through a variety of design phases. The first discovery phase asks you to conduct and interview. From there, you will pull out themes, develop a "How might we" question, develop ideas as a group, create and test prototypes, and produce a final fully interactive app proposal. Solutions to this project brief should not be literal solutions for solving your interviewees problems, but rather experimental rituals that ask or nudge people to change their behavior in some way, and creatively explore the themes identified in the interview.
 
 ### What not to do
 
