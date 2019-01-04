@@ -14,13 +14,13 @@ This project asks you to go through a variety of design phases. The first discov
 
 ### What not to do
 
-When you go through the research process, it may be tempting to design for a direct problem. For instance, you may hear from your interviewee that they have trouble dealing with time management or remembering to get certain tasks done. Your first instinct would be to solve this issue by designing a todo list or calendar tool. However, a quick Internet search will reveal many todo and calendar tools, and unless you are planning a radical shift in how those particular tools function, it makes sense to approach the problem from a different perspective. Your project must contain elements of novelty. **Please avoid calendar and todo list design solutions for this project.**
+When you go through the research process, it may be tempting to design for a direct, literal problem. For instance, you may hear from your interviewee that they have trouble dealing with time management or remembering to get certain tasks done. Your first instinct would be to solve this issue by designing a todo list or calendar tool. However, a quick Internet search will reveal many todo and calendar tools, and unless you are planning a radical shift in how those particular tools function, it makes sense to approach the problem from a different perspective. By trying to gain insight into the behavior of your interview subject, you can come up with novel ritual ideas that seek to create new types of behavior. Your project must contain elements of novelty and does not need to solve a literal problem. The interview can be used as inspiration for a ritual of some kind. **Please avoid calendar and todo list design solutions for this project.**
 
 ## Inspiration
 
-[Ritual Design Lab](http://www.ritualdesignlab.org/)
-
-See Wade Davis TED Talk on ritual and what makes us human. **\(19:08\)**  
+* [Somebody App](http://somebodyapp.com/)
+* [Ritual Design Lab](http://www.ritualdesignlab.org/)
+* See Wade Davis TED Talk on ritual and what makes us human. **\(19:08\)**  
 [https://www.ted.com/talks/wade\_davis\_on\_the\_worldwide\_web\_of\_belief\_and\_ritual](https://www.ted.com/talks/wade_davis_on_the_worldwide_web_of_belief_and_ritual)
 
 **Medium articles:**
@@ -35,7 +35,7 @@ See Wade Davis TED Talk on ritual and what makes us human. **\(19:08\)**
 ## Materials and tools
 
 * Camera \(a smartphone camera is fine\)
-* InVisionApp account \(free\)
+* InVisionApp account: Visit [https://www.invisionapp.com/education-signup](http://www.invisionapp.com/education-signup) to get a free education account. Use this activation code: **56-73-13-19**
 * Graph paper
 * Pens, pencils, markers
 * Scissors
@@ -43,9 +43,9 @@ See Wade Davis TED Talk on ritual and what makes us human. **\(19:08\)**
 
 ## Requirements
 
-* Develop an interactive mockup for an app that supports a ritual using prescribed software.
+* Develop interactive wireframe screens for an app that supports a ritual using prescribed software.
 * Keep the mockup "low fidelity". You may develop a logo and branding, but do not spend significant time on developing graphics. It should feel like a paper prototype. No prior software skills are necessary, though you may already be familiar with software design tools. If you insist on using software like Photoshop, xD, Sketch, or Figma, create only black and white wireframes. Do not make aesthetic decisions like color and typography for this project.
-* Avoid developing calendars and todo apps. Seek creative and clever solutions to solve the project.
+* Avoid developing calendars and todo apps. Seek creative and clever ideas to solve the project.
 
 
 
