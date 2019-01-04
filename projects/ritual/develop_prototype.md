@@ -50,10 +50,11 @@ Now that you have described the various aspects of the ritual, you will create i
 3. Upload prototype interfaces to InvisionApp
    1. Move the image files from your phone or camera to your computer.
    2. Crop each image to the screen border using the cropping methods suggested in the technical resources.
-   3. Sign into [invisionapp.com](https://www.invisionapp.com/) and create a new project. Choose the phone portrait template.
-   4. Upload your cropped images to InVision.
-   5. Build interactivity using InVision's built-in hotspot and linking tools.
-   6. Test that all the desired interactivity is functioning.
+   3. Visit [https://www.invisionapp.com/education-signup](http://www.invisionapp.com/education-signup) to get a free education account. Use this activation code: **56-73-13-19**
+   4. Sign into [invisionapp.com](https://www.invisionapp.com/) and create a new project. Choose the phone portrait template.
+   5. Upload your cropped images to InVision.
+   6. Build interactivity using InVision's built-in hotspot and linking tools.
+   7. Test that all the desired interactivity is functioning.
 4. Click on the More button \(three dots\) and click **Download Prototype.** Choose the export a ZIP file of the project.
 5. Click the share button and choose share public link at the bottom to copy the public share link.
 
