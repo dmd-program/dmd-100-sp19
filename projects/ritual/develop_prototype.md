@@ -2,7 +2,7 @@
 
 # Develop: Interactive Wireframes
 
-Now that you have described the various aspects of the ritual, you will prototype a mobile application interface using a process known as paper prototyping. Paper prototyping is a quick way to simulate a product before too many resources are used to design and engineer the final product. It works as a kind of model that others can react to, giving designers an insight as to whether they are going in the right direction. The purpose of this prototype is to quickly communicate to your peers how you intend to use a mobile device application to facilitate a ritual.
+Now that you have described the various aspects of the ritual, you will create interactive wireframes for a mobile app. You can think of wireframes as a an informal sketch that helps a designer test their ideas so they can quickly iterate the design and gather feedback. This process is important because it helps product designers make decisions before wasting resources on a final product that solves the wrong problem. You will use an easy to use design tool called InvisionApp to produce a navigable wireframes of app "screens", with active buttons, menus, and other simulated features. The purpose of these wireframes are to quickly communicate to your peers how you intend to use a mobile device application to facilitate, generate, or expand upon a ritual.
 
 ## Tools and Materials
 
