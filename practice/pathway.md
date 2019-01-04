@@ -51,8 +51,8 @@ Now that you have completed the questionnaire, use your answers to write a learn
 
 ## Post work to the Studio
 
-1. Upload the your completed questionnaire from **Part 1** as `questionnaire.doc` to the Canvas assignment:
-2. Upload the `learning-strategy.doc` from **Part 2** to the Canvas assignment:
+1. Upload the your completed questionnaire from **Part 1** as `questionnaire.doc` directly to the Canvas assignment. Do not upload to Studio.
+2. Upload the `learning-strategy.doc` from **Part 2** directly to the Canvas assignment. Do not upload to Studio.
 
 
 
