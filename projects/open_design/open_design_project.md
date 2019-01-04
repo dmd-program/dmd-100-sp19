@@ -1,6 +1,6 @@
 # Open Design Project
 
-![Paper cutting tools and tape](/assets/jo-szczepanska-57782.jpg)
+![Image of work by Patrica Goffredo](/assets/PatriciaGoffredo-03-fa18.jpg)
 
 ## Brief
 
