@@ -17,17 +17,18 @@ Now that you've finished conducting the interview, it's time to identify some th
     2. Did anything surprise you?
     3. Was there anything amusing or disheartening?
     4. What else was significant or meaningful?
-2. On the following page in your journal, write "**core insights**" at the top. Each insight contains three sentences. Transform three of your themes from the previous journal page into the following sentences sets:
+3. On the following page in your journal, write "**core insights**" at the top. You may need to use more than one page to write all three insights. Each insight contains three sentences. Using your themes from the previous journal page, write three insights by using the following pattern for each insight:
     - **Positive state or event:** "Going camping forces Mike to be active and getting away from technology makes him feel great."
     - **Specific dilemma:** "But he works a lot and forgets to plan trips. Getting ready for trips takes so much effort, that he doesn't have time or energy to plan and pack at the last minute, and doesn't go very often."
     - **Desired End State:** "I wish there was a way to help Mike plan and prepare trips." 
-3. Document your themes and insights with a photograph or scan.
+4. Document your themes and insights with a photograph or scan.
 
 ## Post work to the Studio
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
-1. Check that you identified themes and that you wrote three (3) core insights according to the instructions.
+1. Check that you identified a variety of themes.
+2. Check that you wrote three (3) full core insights using the provided pattern in the instructions. A single insight includes three sentences, so you will have nine (9) total sentences.
 2. Upload the photograph or scan of your themes and insights in `.jpg` or `.png` format.
 
 ***
