@@ -2,6 +2,8 @@
 
 ![Image of work by Patrica Goffredo](/assets/PatriciaGoffredo-03-fa18.jpg)
 
+_Work by DMD 100 student, Patricia Goffredo. Fall 2018_
+
 ## Brief
 
 In this project, you will follow the Double Diamond design process to: \(1\) design a kit of parts that can be used to build a toy, model, or other object for use by human people; \(2\) write comprehensive instructions for how to make the parts and assemble the kit; and \(3\) create photo documentation of your work.
