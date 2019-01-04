@@ -26,19 +26,20 @@ Now that you have described the various aspects of the ritual, you will create i
 * Lynda: [InVision Prototyping](https://www.lynda.com/Flinto-tutorials/Invision-prototyping/452520/493200-4.html) \([PSU Login](https://lynda.psu.edu)\)
 * [InvisionApp Tutorials](https://projects.invisionapp.com/d/main#/learn)
 
-## Prototyping Instructions
+## Instructions
 
-### A. Making a paper prototype
+### A. Creating wireframes
 
-1. List the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a time component, then you can build in a timed audio cue into the prototype \(represented visually\).
-2. Find UI inspiration: [http://collectui.com/](http://collectui.com/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
-3. Create the paper interface components
-   1. Download and print the Paper Prototyping PDF.
+1. In your journal, you can list the parts of the storyboard that can translate into mobile application functions. For instance, if the ritual has a timer component, you can make a note that you'll need a visual (or audio) cue for the timer.
+2. Look at wireframing inspiration: [https://whatpixel.com/instagram-ux-sketches-wireframes](https://whatpixel.com/instagram-ux-sketches-wireframes/), [https://dribbble.com/](https://dribbble.com/), [http://www.mobile-patterns.com/](http://www.mobile-patterns.com/)
+3. Create the app's interface screens
+   1. If you prefer to use pencil and paper, you can either draw the wireframes or download and print the Paper Prototyping PDF. If you intend to use software, refer to step 6.
    2. Draw and cut out interface elements including buttons, images, icons, navigation, text, and other elements needed to prototype your app interface.
    3. Cut out reusable interface elements so they can be rearranged for each application screen.
    4. Arrange the components for each screen and take a picture with your phone's camera.
 4. Crop all images to the crop marks.
 5. Upload images to a project folder on box.psu.edu to keep a backup.
+6. Note: You can accomplish this assignment without the use of Photoshop or other design software. However, if you prefer to use software, please generate "low fidelity" wireframes. Do not include color, styling, or complex stock images as those do not qualify as wireframes. It should be mostly or entirely black and white.
 
 ### B. Making an interactive prototype
 
